@@ -16,9 +16,8 @@ sections:
     title: >-
       Check back here today at 16:30
     subtitle: >-
-      You've waited so long to find out what the message at the bottom of the jar is a about. For now, it is still a mystery!
-
-      I love you
+      You've waited so long to find out what the note at the bottom of the jar is a about. For now, it is still a mystery!
+      I love you. Enjoy your day at school ❤️
     styles:
       self:
         height: auto
