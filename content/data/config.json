@@ -3,11 +3,17 @@
     "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-b",
         "isSticky": false,
         "title": "Gigi girlfriend portal",
-        "isTitleVisible": false,
-        "primaryLinks": [],
+        "isTitleVisible": true,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "BF TIX",
+                "url": "/gigi/boyfriend-tickets"
+            }
+        ],
         "socialLinks": [],
         "styles": {
             "self": {

@@ -27,6 +27,24 @@
     }
 }
 
+.progress-container {
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.progress-bar {
+    height: 30px;
+    background: linear-gradient(90deg, #4caf50, #81c784);
+    transition: width 1.5s ease-out;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    font-weight: bold;
+}
+
 @layer components {
     .sb-markdown {
         @apply text-lg leading-relaxed;
