@@ -47,10 +47,7 @@ sections:
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: See all memories
-        url: /gigi/memories
+    actions: []
     showDate: false
     showDescription: true
     showFeaturedImage: true
