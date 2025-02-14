@@ -91,6 +91,8 @@ sections:
     backgroundSize: full
     type: TestimonialsSection
     testimonials:
+      - name: Dan
+        quote: I like Gigi because she has a super fun and bubbly personality!
       - name: Lou
         quote: I love gg not only because she is beautiful inside and out. Her genuinity, and her beautiful smile that can light up any room when she walks in ♥️ she is truly the kindest soul someone can have the luck to have around
       - name: Andreas
