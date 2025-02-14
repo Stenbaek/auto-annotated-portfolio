@@ -91,7 +91,7 @@ function ProjectsVariantABC(props) {
         >
             {projects.map((project, index) => (
                 // <Link key={index} href={project} className="sb-project-feed-item block group">
-                <article className="border-b border-current pb-10 max-w-3xl">
+                <article key={index} className="border-b border-current pb-10 max-w-3xl">
                     {showFeaturedImage && project.featuredImage && (
                         <div className="h-0 w-full mb-6 pt-2/3 relative overflow-hidden">
                             <ImageBlock
