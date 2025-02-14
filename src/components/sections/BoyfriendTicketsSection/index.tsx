@@ -24,8 +24,12 @@ export default function BoyfriendTicketsSection(props) {
                     <a className="underline hover:no-underline" href="mailto:hey@sstenbaek.dk?subject=Request%20for%20boyfriend%20ticket">
                         sales department
                     </a>{' '}
-                    to hear about our offers, or find us on <a href="https://wa.me/34639375369?text=Request%20for%20boyfriend%20ticket!"> WhatsApp</a>. Looking
-                    forward to stay in touch!
+                    to hear about our offers, or find us on{' '}
+                    <a className="underline hover:no-underline" href="https://wa.me/34639375369?text=Request%20for%20boyfriend%20ticket!">
+                        {' '}
+                        WhatsApp
+                    </a>
+                    . Looking forward to stay in touch!
                 </p>
             </div>
         </Section>
