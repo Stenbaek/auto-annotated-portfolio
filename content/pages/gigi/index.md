@@ -91,6 +91,8 @@ sections:
     backgroundSize: full
     type: TestimonialsSection
     testimonials:
+      - name: Lou
+        quote: I love gg not only because she is beautiful inside and out. Her genuinity, and her beautiful smile that can light up any room when she walks in ♥️ she is truly the kindest soul someone can have the luck to have around
       - name: Andreas
         quote: Gigi is kind, warm, emotionally intelligent & loving. The warmth and attention she gives others, especially her close relations, seems unmatched. From the very first meeting (Barcelona bar, ofc), where she had her first date with my best friend, Simon, she was welcoming and interested in our friendship. From there we had several weeks of great days & nights with techno in Sunny Bacrelona. To be continued
       - name: Alan
