@@ -4,7 +4,7 @@ title: Gigi Girlfriend Portal
 colors: colors-d
 backgroundImage:
   type: BackgroundImage
-  url: /own/ibiza.jpg
+  url: /images/bg3.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
