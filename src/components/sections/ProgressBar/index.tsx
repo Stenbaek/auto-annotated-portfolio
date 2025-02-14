@@ -12,7 +12,7 @@ const calculateElapsedPercentage = (startDate: Date, endDate: Date): number => {
     if (now <= start) return 0;
     if (now >= end) return 100;
 
-    return ((now - start) / (end - start)) * 100;
+    return Math.ceil((now - start) / (end - start)) * 100;
 };
 
 const ProgressBar = (props) => {
