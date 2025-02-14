@@ -91,6 +91,10 @@ sections:
     backgroundSize: full
     type: TestimonialsSection
     testimonials:
+      - name: Freddy
+        quote: I love Gigi because her warmth is so welcoming, her smile so beautiful, her drive to learn and expand so inspiring, her food so tasty, her taste in music so delightful, and her heart so big
+      - name: Carla
+        quote: I love Gigi for her genuine care, her gentle smile, her warm heart and for bringing the best out of Simon
       - name: Dan
         quote: I like Gigi because she has a super fun and bubbly personality!
       - name: Lou
