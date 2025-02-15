@@ -2,6 +2,10 @@
 type: PageLayout
 title: Gigi Girlfriend Portal
 colors: colors-d
+metaTags:
+  - format: property
+    property: og:image
+    content: /own/ibiza.jpg
 backgroundImage:
   type: BackgroundImage
   url: /images/bg3.jpg
