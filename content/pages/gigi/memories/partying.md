@@ -8,7 +8,7 @@ description: >-
   Partying with you has given me life and joy to a degree I never imagined. When we dance, the fun the love, it all comes alive
 featuredImage:
   type: ImageBlock
-  url: /own/parties.gif
+  url: /own/parties_cut.gif
   altText: Project thumbnail image
 media:
   type: ImageBlock
