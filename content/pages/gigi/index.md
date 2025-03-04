@@ -89,6 +89,17 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: 'My core memories with you'
+  - colors: colors-f
+    type: AbsurdNumber
+    elementId: ''
+    actions: []
+    variant: variant-b
+    backgroundSize: inset
+    styles:
+      title:
+        textAlign: center
+        marginBottom: mb-8
+    title: 'How many times I thought about Gigi today'
   - elementId: 'testimonials'
     title: 'What our loved ones say about you'
     colors: colors-f

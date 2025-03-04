@@ -53,7 +53,7 @@ function SectionInset(props: SectionProps) {
                     borderWidth: styles.borderWidth ? `${styles.borderWidth}px` : null
                 }}
             >
-                <div className="relative w-full">{children}</div>
+                <div className="relative w-full flex-content">{children}</div>
             </div>
         </div>
     );

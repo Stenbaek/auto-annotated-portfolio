@@ -77,5 +77,6 @@ const components = {
     ProjectFeedLayout: dynamic(() => import('./layouts/ProjectFeedLayout')),
     SpotifyPlaylist: dynamic(() => import('./sections/SpotifyPlaylist')),
     BoyfriendTicketsSection: dynamic(() => import('./sections/BoyfriendTicketsSection')),
+    AbsurdNumber: dynamic(() => import('./sections/AbsurdHihgLoveNumber')),
     ProgressBar: dynamic(() => import('./sections/ProgressBar'))
 };
