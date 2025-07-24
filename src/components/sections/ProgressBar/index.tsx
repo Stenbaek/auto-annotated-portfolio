@@ -67,7 +67,7 @@ const ProgressBar = (props) => {
                                 borderRadius: '10px'
                             }}
                         >
-                            {visible ? `${Math.round(progress)}%` : '0%'}
+                            {visible ? `${Math.round(progress * 10) / 10}%` : '0%'}
                         </div>
                     </div>
                 </div>
