@@ -117,7 +117,7 @@ sections:
       - name: Andreas
         quote: Gigi is kind, warm, emotionally intelligent & loving. The warmth and attention she gives others, especially her close relations, seems unmatched. From the very first meeting (Barcelona bar, ofc), where she had her first date with my best friend, Simon, she was welcoming and interested in our friendship. From there we had several weeks of great days & nights with techno in Sunny Bacrelona. To be continued
       - name: Alan
-        quote: I love Gigi because I can tell she makes my friend Simon a better person, which is the sign of an amazing person! I also love Gigi because she rolls a perfect joint!
+        quote: I love Gigi because I can tell she makes my friend Simon a better person, which is the sign of an amazing person! I also love Gigi because she *cooks such delicious food*!
       - name: Søren
         quote: What I love about Gigi is that she gives Simon and herself the space to be exactly who they are – to grow, explore, and taste life. She is authentic, stands by her values, and is always present in our conversations.  Gigi is a warm and loving person, and I deeply appreciate the interest she shows in my children. That truly means a lot.  It is always a pleasure to see Gigi and Simon, and I look forward to the next time.
       - name: Marie-Louise
