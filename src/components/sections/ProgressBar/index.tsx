@@ -9,7 +9,7 @@ const calculateElapsedPercentage = (startDate: Date, endDate: Date): number => {
     const start = startDate.getTime();
     const end = endDate.getTime();
 
-    return 90.2;
+    return 99.2;
 
     if (now <= start) return 0;
     if (now >= end) return 100;
