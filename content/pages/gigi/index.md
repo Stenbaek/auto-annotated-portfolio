@@ -18,9 +18,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Gigi Girlfriend portal
+      Gigi Wife portal
     subtitle: >-
-      The time has come. Your own girlfriend portal is live! Your personal love HQ 💖 Stay tuned for updates
+      The time has come. Your own wife portal is live! Your personal love HQ 💖 Stay tuned for updates
     styles:
       self:
         height: auto
