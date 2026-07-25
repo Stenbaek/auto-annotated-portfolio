@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Gigi Girlfriend Portal
+title: Gigi Wife Portal
 colors: colors-d
 metaTags:
   - format: property
